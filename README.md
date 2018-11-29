@@ -54,6 +54,16 @@ This test is built into the script
 
 This script launches a cloudformation template that installs aws api gateway and a lambda job
 
+## Clean Up
+
+run:
+aws cloudformation delete-stack --stack-name cfdtacheny
+
+## TO DO
+
+Do to time constraints I didn't get the python script in perfect python format.  
+Add argparse to include delete stack
+
 ## Built With
 
 python
