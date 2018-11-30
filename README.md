@@ -82,8 +82,4 @@ this work has been developed by david tacheny as original code
 ## Authors
 
 David Tacheny
-https://www.linkedin.com/in/davidtacheny/
 
-## Acknowledgments
-
-TekSystems
